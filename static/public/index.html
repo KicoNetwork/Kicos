@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, shrink-to-fit=no"
+    />
+    <title>Kicos</title>
+    <meta name="theme-color"
+    media="(prefers-color-scheme: dark)"
+    content="#434c5e" />
+    <link rel="shortcut icon" content="KICO.png" />
+    <link rel="stylesheet" href="index.css" />
+    <script src="uv/uv.bundle.js" defer></script>
+    <script src="uv/uv.config.js" defer></script>
+    <script src="register-sw.js" defer></script>
+    <script src="search.js" defer></script>
+    <script src="index.js" defer></script>
+  </head>
+
+  <body>
+    <body>
+      <div id="arrow-button">&#8593;</div>
+      <div id="overlay">
+        <div id="content">
+          <h2>Overlay Content</h2>
+          <p>This is the content of the overlay.</p>
+          <button id="close-button">X</button>
+        </div>
+      </div>    
+    <div
+      title="Ultraviolet Logo"
+      class="flex-center logo-wrapper header-center"
+    >
+      <h1 id="KICO">KICOS</h1>
+    </div>
+
+    <form id="uv-form" class="flex-center">
+      <input
+        id="uv-search-engine"
+        value="https://www.google.com/search?q=%s"
+        type="hidden"
+      />
+      <input id="uv-address" type="text" placeholder="Search the web freely" />
+      <button type="submit">Search</button>
+    </form>
+
+    <div class="desc left-margin">
+      <p id="uv-error"></p>
+      <pre id="uv-error-code"></pre>
+    </div>
+    <script src="open.js" defer></script>
+  </body>
+</html>
