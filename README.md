@@ -1,16 +1,16 @@
-<p align="center"><img src="https://raw.githubusercontent.com/titaniumnetwork-dev/Ultraviolet-Static/main/public/uv.png" height="200"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/KicoNetwork/Kicos/main/static/public/favicon.ico" height="200"></p>
 
-<h1 align="center">Ultraviolet-App</h1>
+<h1 align="center">KicoProxy</h1>
 
-The deployable all-in-one bundle for Ultraviolet, a highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!
+The Kico proxy built on the latest Ultraviolet
 
 ## Deployment
 
-[![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://github.com/titaniumnetwork-dev/Ultraviolet-App/wiki/Deploy-to-Heroku)
-[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://github.com/titaniumnetwork-dev/Ultraviolet-App/wiki/Run-on-Replit)
+[![Deploy to Heroku](https://heroku.com/deploy/?template=https://github.com/KicoNetwork/Kicos)
+[![Run on Replit](https://replit.com/github/KicoNetwork/Kicos)
 [![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://github.com/titaniumnetwork-dev/Ultraviolet-App/wiki/Deploy-on-Railway)
 [![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://github.com/titaniumnetwork-dev/Ultraviolet-App/wiki/Remix-on-Glitch)
-[![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://github.com/titaniumnetwork-dev/Ultraviolet-App/wiki/Deploy-to-Koyeb)
+[![Deploy to Koyeb](https://app.koyeb.com/deploy?type=git&repository=github.com/KicoNetwork/Kicos&branch=main&name=Kicos)
 
 If you are deploying to an alternative service or to a server, refer to [Deploy via terminal](https://github.com/titaniumnetwork-dev/Ultraviolet-App/wiki/Deploy-via-terminal).
 
